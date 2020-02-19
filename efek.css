@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+
+th {
+	color: #ffffff; background-color: #6699CC; border-width: 1px; border-style: solid; border-color: skyblue; font-size: 9pt;
+}
+td {
+	color: red; background-color: #e6e6fa; border-width: 1px; border-style: solid; border-color: skyblue; font-size: 9pt;
+}
